@@ -4,7 +4,8 @@ networkx
 scipy
 easydict
 nltk
-sklearn
+scikit-learn
+# sklearn
 sentence_transformers
 langdetect
 gdown
