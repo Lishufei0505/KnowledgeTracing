@@ -1,12 +1,13 @@
 """
 pre-processing assist 
+# 预处理assist2017数据集
 """
 
 import time
-import pandas as pd
+import pandas as pd # 用于数据处理
 from pre_process import group_seq
 
-
+# 定义一个数据类型字典
 data_type ={
     "timestamp": "int64",
     "user_id": "int32",
